@@ -3,7 +3,7 @@
 
 A modern web application built with Next.js that provides AI-powered text summarization and grammar correction capabilities. The application features a beautiful animated background, intuitive UI, and real-time text processing.
 
-![AI Text Assistant](asset/screenshot.jpg)
+![AI Text Assistant](assets/screenshot.png)
 
 ## Features
 
